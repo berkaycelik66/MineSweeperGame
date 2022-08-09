@@ -148,7 +148,7 @@ public class MineSweeper {
         System.out.println("==== Welcome to Minesweeper Game ====");
         gameMap();
         minedMap();
-        showingMinedMap();
+        //showingMinedMap();
 
         while (totalMove != 0) {
             System.out.println("=============================");
